@@ -1,0 +1,28 @@
+
+
+/* 
+@import url('https://fonts.googleapis.com/css2?family=Cactus+Classical+Serif&family=Changa+One:ital@0;1&display=swap');
+
+
+p{
+
+      font-family: "Changa One", sans-serif;
+}
+
+h2{
+    font-family: "Cactus Classical Serif", serif;
+} */
+
+
+    /* Default height for small devices */
+    #intro-example {
+      height: 400px;
+    }
+
+    /* Height for devices larger than 992px */
+    @media (min-width: 992px) {
+      #intro-example {
+        height: 600px;
+      }
+    }
+ 
